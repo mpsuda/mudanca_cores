@@ -1,6 +1,6 @@
 var corpo = document.getElementById ("corpo");
 
-var cores = ["blue", "red", "green", "yellow", "white", "black"];
+var cores = ["darkblue", "red", "green", "yellow", "white", "black"];
 
 var i=0;
 
